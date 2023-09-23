@@ -1,0 +1,25 @@
+# Components-JS
+Um pouco de compenents que aprendi a fazer  no BOOOTCAMP Santander
+
+
+O QUE É COMPONENTS?
+
+Definição de Propósito: Primeiro, você deve definir o propósito do componente e o que ele deve realizar. Isso envolve a identificação das funcionalidades e da aparência visual que o componente terá.
+
+Criação de um Template: Geralmente, você cria um template HTML que representa o visual e a estrutura do componente. Isso pode ser feito em um arquivo separado ou como uma string de HTML dentro do JavaScript.
+
+Lógica e Comportamento: Você implementa a lógica e o comportamento do componente em JavaScript. Isso pode incluir a manipulação do DOM, a resposta a eventos e a interação com dados.
+
+Gestão de Estado: Se necessário, você pode adicionar um sistema de gerenciamento de estado para rastrear as informações do componente ao longo do tempo. Isso é particularmente importante para componentes dinâmicos que podem mudar com base em interações do usuário ou em dados externos.
+
+Estilo e CSS: Aplicar estilos CSS ao seu componente para dar a ele a aparência desejada. Isso pode ser feito usando classes CSS ou frameworks de estilo.
+
+Encapsulação: É importante encapsular o componente para que ele seja reutilizável e independente de outros elementos da página. Isso geralmente envolve evitar o uso de variáveis globais e limitar o escopo das variáveis e funções dentro do componente.
+
+Testes e Depuração: Teste o componente para garantir que ele funcione conforme o esperado. Isso inclui verificar o comportamento em diferentes navegadores e dispositivos. Também é importante depurar quaisquer erros ou problemas que surjam.
+
+Documentação: Documente o componente, explicando como usá-lo, quais propriedades ele aceita (se aplicável) e quais eventos ele emite. Isso facilita o uso do componente por outros desenvolvedores.
+
+Uso em Aplicações: Por fim, você pode incorporar o componente em suas páginas da web ou aplicação, usando seu nome e passando as propriedades necessárias (se houver) para personalizá-lo conforme necessário.
+
+Manutenção: À medida que sua aplicação evolui, você pode precisar atualizar ou estender o componente. Certifique-se de manter o componente de acordo com as mudanças necessárias.
